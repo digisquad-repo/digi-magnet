@@ -1,6 +1,6 @@
 # MAGNET - DIGISQUAD
 
-### About this project : 
+### About this project 
 
 Curated block list including IPs, FQDNs, Domains, JA3, etc. 
 
