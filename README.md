@@ -14,6 +14,14 @@ The lists are in plain text format, ensuring compatibility with most security de
 
 If another format is needed, please open an issue or submit a pull request.
 
+The block list is organized in the following format in the directory "public.dir":
+
+- `./public.dir/domain/` - primarily contains domains marked as malicious.
+- `./public.dir/fqdn/`   - primarily contains FQDNs marked as malicious.
+- `./public.dir/ip/`     - primarily contains IPs marked as malicious, bad-reputation, crypto-miners, open-proxies, scanners, spammers, and tor exit nodes.
+- `./public.dir/ja3/` or `./public.dir/ssl/` - primarily contains SSL fingerprints marked as malicious.
+- `./public.dir/url/` - primarily contains URLs marked as malicious, as well as the pathname and fragment of these URLs.
+
 ## Target Audience
 This resource is primarily aimed at network engineers, network security professionals, and cybersecurity researchers for various applications.
 
