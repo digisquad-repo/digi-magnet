@@ -14,6 +14,15 @@ Les listes sont au format texte pur, rendant leur compatibilité optimale avec l
 
 Si un autre format est requis, n'hésitez pas à ouvrir une issue ou soumettre une pull request.
 
+Les listes blocage sont organisées selon le format suivant dans le répertoire "public.dir" :
+
+- `./public.dir/domain/` - contient principalement des domaines identifiés comme malveillants.
+- `./public.dir/fqdn/` - contient principalement des FQDN identifiés comme malveillants.
+- `./public.dir/ip/` - contient principalement des adresses IP identifiées comme malveillantes, de mauvaise réputation, des proxies ouverts, des scanners, des spammers et des noeuds de sortie tor.
+- `./public.dir/ja3/` ou ssl - contient principalement des empreintes SSL identifiées comme malveillantes.
+- `./public.dir/url/` - contient principalement des URL identifiées comme malveillantes mais aussi le chemin et le fragment de ces URL.
+
+
 ## Cibles
 Cette ressource s'adresse principalement aux ingénieurs réseaux, professionnels de la sécurité réseau, et chercheurs en cybersécurité pour diverses applications.
 
