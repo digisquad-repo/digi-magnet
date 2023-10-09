@@ -14,7 +14,7 @@ The lists are in plain text format, ensuring compatibility with most security de
 
 If another format is needed, please open an issue or submit a pull request.
 
-The block list is organized in the following format in the directory "public.dir":
+The block lists are organized in the following format in the directory "public.dir":
 
 - `./public.dir/domain/` - primarily contains domains marked as malicious.
 - `./public.dir/fqdn/`   - primarily contains FQDNs marked as malicious.
