@@ -6,15 +6,13 @@
 ./public.dir/fqdn/DIGISQUAD-COM-malicious.50k 50000
 ./public.dir/ip/DIGISQUAD-COM-bad_reputation.100k 100000
 ./public.dir/ip/DIGISQUAD-COM-bad_reputation 102555
+./public.dir/ip/DIGISQUAD-COM-bad_reputation.50k 50000
 ./public.dir/ip/DIGISQUAD-COM-crypto.miners.100k 5494
 ./public.dir/ip/DIGISQUAD-COM-crypto.miners.50k 5494
 ./public.dir/ip/DIGISQUAD-COM-crypto.miners 5494
-./public.dir/ip/DIGISQUAD-COM-DIGISQUAD-COM-bad_reputation.100k 100000
-./public.dir/ip/DIGISQUAD-COM-DIGISQUAD-COM-bad_reputation 102555
-./public.dir/ip/DIGISQUAD-COM-DIGISQUAD-COM-bad_reputation.50k 50000
-./public.dir/ip/DIGISQUAD-COM-DIGISQUAD-COM-malicious.100k 41638
-./public.dir/ip/DIGISQUAD-COM-DIGISQUAD-COM-malicious.50k 41638
+./public.dir/ip/DIGISQUAD-COM-malicious.100k 41638
 ./public.dir/ip/DIGISQUAD-COM-malicious 41638
+./public.dir/ip/DIGISQUAD-COM-malicious.50k 41638
 ./public.dir/ip/DIGISQUAD-COM-open.proxies.100k 6728
 ./public.dir/ip/DIGISQUAD-COM-open.proxies.50k 6728
 ./public.dir/ip/DIGISQUAD-COM-open.proxies 6728
@@ -36,4 +34,4 @@
 ./public.dir/url/DIGISQUAD-COM-malicious.100k 49153
 ./public.dir/url/DIGISQUAD-COM-malicious 49153
 ./public.dir/url/DIGISQUAD-COM-malicious.50k 49153
-total 1843149
+total 1640594
